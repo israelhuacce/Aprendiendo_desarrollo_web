@@ -9,8 +9,7 @@ https://www.youtube.com/watch?v=oxaH9CFpeEE
 -   Resaltar: **Ctrl + Alt + H**
 -   Navegar hacia adelante: **Ctrl + Alt + →**
 -   Navegar hacia atras: **Ctrl + Alt + ←**
--   Modo de Vista: **Ctrl + E**
--   Otros atajos 〜(￣▽￣〜)
+-   Cambiar modo de Vista: **Ctrl + E**
 
 # MARKDOWN
 ```dataview
@@ -19,7 +18,10 @@ WHERE type = "Nota"
 ```
 
 ==resaltado==
-
+# Insertar imágenes, videos, grabaciones y PDF
+![](aqui debemos poner el link de la imagen)
+Para redimensionar añadimos	 ==|300x300==
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/FlEz8QJHrss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Plugins
 _____________________________________________________________
