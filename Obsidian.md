@@ -1,31 +1,24 @@
-Lenguaje markdown :
-https://www.youtube.com/watch?v=YikVm3wijfA
-https://www.youtube.com/watch?v=oxaH9CFpeEE
-# Referencias
-[como crear una wikipedia en obsidian](https://www.youtube.com/watch?v=oxaH9CFpeEE)
-# Atajos utiles
--   Gráfico: **Ctrl + G**
+<img src="Media/Obsidian portada.png" max-widht="100%" height="auto" alt="Portada de obsidian"> 
+
+
+# Atajos utiles en obsidian
+-   Abrir Gráfico: **Ctrl + G**
 -   Buscador: **Ctrl + O**
 -   Resaltar: **Ctrl + Alt + H**
 -   Navegar hacia adelante: **Ctrl + Alt + →**
 -   Navegar hacia atras: **Ctrl + Alt + ←**
 -   Cambiar modo de Vista: **Ctrl + E**
 
-# MARKDOWN
+# Plugins
+---
+- Un complemento o plugin es una aplicación que se relaciona con otra para **agregarle una función nueva** y **generalmente muy específica**.
+
 ```dataview
 TABLE fecha
 WHERE type = "Nota"
+sort fecha asc
 ```
 
-==resaltado==
-# Insertar imágenes, videos, grabaciones y PDF
-![](aqui debemos poner el link de la imagen)
-Para redimensionar añadimos	 ==|300x300==
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/FlEz8QJHrss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# Plugins
-_____________________________________________________________
-- Un complemento o plugin es una aplicación que se relaciona con otra para **agregarle una función nueva** y **generalmente muy específica**.
 ## Plugins Principales
 - Panel de Etiquetas
 - Plantillas
