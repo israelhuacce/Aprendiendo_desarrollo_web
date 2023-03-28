@@ -1,31 +1,40 @@
 <img src="Media/Obsidian portada.png" max-widht="100%" height="auto" alt="Portada de obsidian"> 
 
+## Temario
+- [Atajos de teclado](#atajos-utiles-en-obsidian)
+- [Plugins](#plugins)
+- [Bibliografía](#bibliografía)
+---
 
-# Atajos utiles en obsidian
+# Atajos útiles en obsidian
 -   Abrir Gráfico: **Ctrl + G**
--   Buscador: **Ctrl + O**
+
+![](Media/Mis%20notas%20en%20obsidian%20-%20vista%20gr%C3%A1fico.png) 
+<small> Mis notas en obsidian - @israelhuacce - 28/03/2023 </small>
+
+-   Buscador: **Ctrl + O** 
 -   Resaltar: **Ctrl + Alt + H**
 -   Navegar hacia adelante: **Ctrl + Alt + →**
 -   Navegar hacia atras: **Ctrl + Alt + ←**
 -   Cambiar modo de Vista: **Ctrl + E**
 
-# Plugins
 ---
+
+# Plugins
 - Un complemento o plugin es una aplicación que se relaciona con otra para **agregarle una función nueva** y **generalmente muy específica**.
 
-```dataview
-TABLE fecha
-WHERE type = "Nota"
-sort fecha asc
-```
+
 
 ## Plugins Principales
-- Panel de Etiquetas
-- Plantillas
-- Destacados
-- Nota al Azar
-- Esquema
-- Workspaces	
+Estos ya vienen instalados en el software de **Obsidian**. Algunos de estos faltan ser habilitados, revíselos en su programa.
+
+Tenemos : 
+- **Panel de Etiquetas** :
+- **Plantillas**
+- **Destacados**
+- **Nota al Azar**
+- **Esquema**
+- **Workspaces**	
 ## Plugins Externos
 ### Organización (GTD)
   - Principales
@@ -62,3 +71,17 @@ sort fecha asc
 - Dataview https://github.com/blacksmithgu/obsidian-dataview
 - Juggl https://github.com/HEmile/juggl
 - Commits https://github.com/Darakah/obsidian-commits
+
+
+
+- Dataview
+```dataview
+TABLE fecha
+WHERE type = "Nota"
+sort fecha asc
+```
+
+---
+
+# Bibliografía
+- 
