@@ -15,13 +15,14 @@ Recordar que este software es **gratuito**, pero tiene algunas funciones premium
 ---
 
 # Atajos útiles en obsidian
--   Abrir Gráfico: **Ctrl + G**
+- Abrir Gráfico: **Ctrl + G**
 ![](Media/Mis%20notas%20en%20obsidian%20-%20vista%20gr%C3%A1fico.png) 
 <small> Mis notas en obsidian - @israelhuacce - 28/03/2023 </small>
 
--   Buscador: **Ctrl + O** : busca entre títulos y alias de las notas.
+- Buscador: **Ctrl + O** : busca entre títulos y alias de las notas.
 
 ![](media/Buscador%20de%20notas.png)
+
 -   Navegar hacia adelante: **Ctrl + Alt + →** avanza a la posterior nota
 -   Navegar hacia atras: **Ctrl + Alt + ←** retrocede a la anterior nota
 -   Cambiar modo de Vista: **Ctrl + E** cambia entre editor y lector.
