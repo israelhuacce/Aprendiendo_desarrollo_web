@@ -20,7 +20,8 @@ Recordar que este software es **gratuito**, pero tiene algunas funciones premium
 <small> Mis notas en obsidian - @israelhuacce - 28/03/2023 </small>
 
 -   Buscador: **Ctrl + O** : busca entre títulos y alias de las notas.
-![[Buscador de notas.png]]
+
+![](media/Buscador%20de%20notas.png)
 -   Navegar hacia adelante: **Ctrl + Alt + →** avanza a la posterior nota
 -   Navegar hacia atras: **Ctrl + Alt + ←** retrocede a la anterior nota
 -   Cambiar modo de Vista: **Ctrl + E** cambia entre editor y lector.
