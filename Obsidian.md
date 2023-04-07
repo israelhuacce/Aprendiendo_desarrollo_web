@@ -1,4 +1,4 @@
-<img src="Media/Obsidian portada.png" max-widht="100%" height="auto" alt="Portada de obsidian"> 
+<img src="Media/Obsidian portada.png" widht="95px" height="95px" alt="Portada de obsidian"> 
 
 [Página oficial de Obsidian](https://obsidian.md/)
 
@@ -53,7 +53,8 @@ Estos plugins los uso diariamente y facilitan el uso de obsidian. Ahorran tiempo
 	- https://www.youtube.com/watch?v=PDJH-IoLD28&t=723s&ab_channel=Emowe
 	- https://www.youtube.com/watch?v=07HXRcfk5CY&t=414s&ab_channel=SniferL4bs
 	- https://www.youtube.com/watch?v=JTObSymEvWA&t=6s&ab_channel=NicolevanderHoeven
-	Esta es una forma básica de usarlo.
+
+Esta es una forma básica de usarlo.
 ```dataview
 TABLE fecha
 WHERE type = "Nota"
